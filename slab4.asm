@@ -1,4 +1,4 @@
-; AZKA GHAFFAR 
+
 		.model small
 		.stack 32
 		.data
